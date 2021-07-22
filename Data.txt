@@ -1,0 +1,10 @@
+Tuning
+Tuning ID
+ObjectTooltip Tags
+Price
+
+object_bedDoubleQA_02 // object_bedSingleQA_02
+36215 // 36225
+10, 10, 10
+12000 /// 8500
+
